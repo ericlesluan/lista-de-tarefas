@@ -1,0 +1,3 @@
+- [ ] Estudar Git e GitHub
+- [ ] Criar primeiro repositório
+- [ ] Fazer primeira Pull Request
